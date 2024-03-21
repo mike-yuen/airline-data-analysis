@@ -10,6 +10,7 @@ colorcet==3.1.0
 comm==0.2.2
 contourpy==1.2.0
 cycler==0.12.1
+Cython==0.29.37
 dask==2024.3.1
 dask-expr==1.0.4
 datashader==0.16.0
@@ -19,6 +20,7 @@ exceptiongroup==1.2.0
 executing==2.0.1
 fonttools==4.50.0
 fsspec==2024.3.1
+hdbscan==0.8.33
 holoviews==1.18.3
 idna==3.6
 importlib_metadata==7.0.2
